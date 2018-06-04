@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bg
+  - Replay
+  - Home
+  - obstacle
+  - Bg1
+  - Bg2
+  - test
+  - clone
+  - DARig
+  - coin
+  - ground
+  - player
+  - nr
+  - aa
+  - wa
+  - spawnpoint2
+  - spawnpoint4
+  - spawnpoint1
+  - spawnpoint3
+  - player2
+  - win
+  - lose
+  - singlePlayer
+  - BoostS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FieldPrint
+    uniqueID: 3443572895
+    locked: 0
+  - name: FarGround
+    uniqueID: 2419066711
+    locked: 0
+  - name: BackGround
+    uniqueID: 1621455939
+    locked: 0
+  - name: Close Background
+    uniqueID: 1177199603
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
